@@ -1,0 +1,360 @@
+\begin{thebibliography}{LWX24}
+
+\bibitem[AA66]{AdamsAtiyah}
+J.~F. Adams and M.~F. Atiyah.
+\newblock {K-theory and the Hopf invariant}.
+\newblock {\em The Quarterly Journal of Mathematics}, 17(1):31--38, 1966.
+
+\bibitem[AD01]{AroneDwyer}
+G.~Arone and W.~G. Dwyer.
+\newblock {Partition complexes, Tits buildings and symmetric products}.
+\newblock {\em Proceedings of the London Mathematical Society}, 82(1):229--256,
+  2001.
+
+\bibitem[AK98a]{convergence}
+G.~Arone and M.~Kankaanrinta.
+\newblock {A functorial model for iterated Snaith splitting with applications
+  to calculus of functors}.
+\newblock In {\em {Stable and unstable homotopy}}, volume~19 of {\em Fields
+  Institute Communications}, pages 1--30. American Mathematical Society,
+  Providence, RI, 1998.
+
+\bibitem[AK98b]{AK}
+G.~Arone and M.~Kankaanrinta.
+\newblock {The homology of certain subgroups of the symmetric group with
+  coefficients in $\mathrm{Lie}(n)$}.
+\newblock {\em Journal of Pure and Applied Algebra}, 127(1):1--14, 1998.
+
+\bibitem[AL07]{AroneLesh2005}
+G.~Arone and K.~Lesh.
+\newblock {Filtered spectra arising from permutative categories}.
+\newblock {\em Journal für die reine und angewandte Mathematik}, 604:73--136,
+  2007.
+
+\bibitem[AL10]{AroneLesh2009}
+G.~Arone and K.~Lesh.
+\newblock {Augmented $\Gamma$-spaces, the stable rank filtration, and a
+  bu-analogue of the Whitehead conjecture}.
+\newblock {\em Fundamenta Mathematicae}, 207(1):29--70, 2010.
+
+\bibitem[AM99]{AroneMahowald}
+G.~Arone and M.~Mahowald.
+\newblock {The Goodwillie tower of the identity functor and the unstable
+  periodic homotopy of spheres}.
+\newblock {\em Inventiones Mathematicae}, 135(3):743--788, 1999.
+
+\bibitem[Aro98]{iterates}
+G.~Arone.
+\newblock {Iterates of the suspension map and Mitchell's finite spectra with
+  $A_k$-free cohomology}.
+\newblock {\em Mathematical Research Letters}, 5(4):485--496, 1998.
+
+\bibitem[BE16]{comparing}
+D.~Barnes and R.~Eldred.
+\newblock {Comparing the orthogonal and homotopy functor calculi}.
+\newblock {\em Journal of Pure and Applied Algebra}, 220(11):3650--3675, 2016.
+
+\bibitem[Beh11]{Behrens2011}
+M.~Behrens.
+\newblock {The Goodwillie tower for $S^1$ and Kuhn's theorem}.
+\newblock {\em Algebraic \& Geometric Topology}, 11(4):2453--2475, 2011.
+
+\bibitem[Beh12]{Behrens2010}
+M.~Behrens.
+\newblock {\em {The Goodwillie tower and the EHP sequence}}, volume 218 of {\em
+  Memoirs of the American Mathematical Society}.
+\newblock American Mathematical Society, 2012.
+
+\bibitem[Bha22]{Moorespectraassoc2}
+P.~Bhattacharya.
+\newblock {Higher associativity of Moore spectra}.
+\newblock {\em Advances in Mathematics}, 402:108319, 2022.
+
+\bibitem[BP26a]{BP1}
+W.~Balderrama and P.~Pstr{\k{a}}gowski.
+\newblock {Unstable synthetic deformations I: Malcev theories}.
+\newblock 2026.
+
+\bibitem[BP26b]{BP2}
+W.~Balderrama and P.~Pstr{\k{a}}gowski.
+\newblock {Unstable synthetic deformations II: infinitesimal extensions}.
+\newblock 2026.
+
+\bibitem[BPS92]{UASScharts}
+D.~Barnes, D.~Poduska, and P.~Shick.
+\newblock {Unstable Adams spectral sequence charts}.
+\newblock In N.~Ray and G.~Walker, editors, {\em {Adams memorial symposium on
+  algebraic topology}}, pages 87--118. Cambridge University Press, 1992.
+
+\bibitem[Cha]{ChathamASS}
+Hood Chatham.
+\newblock {Adams spectral sequence calculator}.
+\newblock Software.
+\newblock Available at \url{https://spectralsequences.github.io/sseq/}.
+
+\bibitem[CMN79]{CMN}
+F.~R. Cohen, J.~C. Moore, and J.~A. Neisendorfer.
+\newblock {The double suspension and exponents of the homotopy groups of
+  spheres}.
+\newblock {\em Annals of Mathematics}, 110(3):549--565, 1979.
+
+\bibitem[DT58]{doldthom}
+A.~Dold and R.~Thom.
+\newblock {Quasifaserungen und unendliche symmetrische produkte}.
+\newblock {\em Annals of Mathematics}, 67(2):239--281, 1958.
+
+\bibitem[Elm83]{Gspaces}
+A.~D. Elmendorf.
+\newblock {Systems of fixed point sets}.
+\newblock {\em Transactions of the American Mathematical Society},
+  277(1):275--284, 1983.
+
+\bibitem[Goo03]{GoodwillieIII}
+T.~G. Goodwillie.
+\newblock {Calculus III: Taylor series}.
+\newblock {\em Geometry \& Topology}, 7:645--711, 2003.
+
+\bibitem[Gra84]{GrayFam}
+B.~Gray.
+\newblock {Unstable families related to the image of $J$}.
+\newblock {\em Mathematical Proceedings of the Cambridge Philosophical
+  Society}, 96(1):95--113, 1984.
+
+\bibitem[Gra89]{Gray1989}
+B.~Gray.
+\newblock {On the double suspension}.
+\newblock In {\em {Algebraic topology}}, volume 1370 of {\em Lecture Notes in
+  Mathematics}, pages 150--162. Springer, Berlin, Heidelberg, 1989.
+
+\bibitem[HHR16]{Kervairesol}
+M.~A. Hill, M.~J. Hopkins, and D.~C. Ravenel.
+\newblock {On the nonexistence of elements of Kervaire invariant one}.
+\newblock {\em Annals of Mathematics}, 184(1):1--262, 2016.
+
+\bibitem[HK96]{WhiteheadModp}
+Y.~Hemmi and Y.~Kawamoto.
+\newblock {Decomposability of the mod $p$ Whitehead element}.
+\newblock {\em Hiroshima Mathematical Journal}, 26(3):623--633, 1996.
+
+\bibitem[Hof68]{Moorespectraassoc}
+P.~Hoffman.
+\newblock {Relations in the stable homotopy rings of Moore spaces}.
+\newblock {\em Proceedings of the London Mathematical Society}, 18(4):621--634,
+  1968.
+
+\bibitem[Hop16]{Kervaireexp}
+M.~J. Hopkins.
+\newblock {The Kervaire invariant problem}.
+\newblock {\em Japanese Journal of Mathematics}, 11:1--14, 2016.
+
+\bibitem[Jam57]{EHP}
+I.~M. James.
+\newblock {On the suspension sequence}.
+\newblock {\em Annals of Mathematics}, 65(1):74--107, 1957.
+
+\bibitem[Joh95]{derivatives}
+B.~Johnson.
+\newblock {The derivatives of homotopy theory}.
+\newblock {\em Transactions of the American Mathematical Society},
+  347(4):1295--1321, 1995.
+
+\bibitem[Kon26]{AlgGSS}
+N.~Konovalov.
+\newblock {\em {Algebraic Goodwillie spectral sequence}}, volume 320 of {\em
+  Memoirs of the American Mathematical Society}.
+\newblock American Mathematical Society, 2026.
+
+\bibitem[KP78]{KP}
+D.~S. Kahn and S.~B. Priddy.
+\newblock {The transfer and stable homotopy theory}.
+\newblock {\em Mathematical Proceedings of the Cambridge Philosophical
+  Society}, 83(1):103--111, 1978.
+
+\bibitem[Kuh82]{WhiteheadOriginal}
+N.~J. Kuhn.
+\newblock {A Kahn-Priddy sequence and a conjecture of G. W. Whitehead}.
+\newblock {\em Mathematical Proceedings of the Cambridge Philosophical
+  Society}, 92(3):467--483, 1982.
+
+\bibitem[Kuh85]{genKP}
+N.~J. Kuhn.
+\newblock {Extended powers of spectra and a generalized Kahn-Priddy theorem}.
+\newblock {\em Topology}, 23:473--480, 1985.
+
+\bibitem[Kuh87]{Spchrom}
+N.~J. Kuhn.
+\newblock {The Morava $K$-theories of some classifying spaces}.
+\newblock {\em Transactions of the American Mathematical Society},
+  304(1):193--205, 1987.
+
+\bibitem[Kuh15]{Kuhn2014}
+N.~Kuhn.
+\newblock {The Whitehead conjecture, the tower of $S^1$ conjecture, and Hecke
+  algebras of type A}.
+\newblock {\em Journal of Topology}, 8(1):118--146, 2015.
+
+\bibitem[Les97]{ktheorymult}
+K.~Lesh.
+\newblock {Infinite loop spaces from group theory}.
+\newblock {\em Mathematische Zeitschrift}, 225:467--483, 1997.
+
+\bibitem[Les00]{nontransitive}
+K.~Lesh.
+\newblock {A filtration of spectra arising from families of subgroups of
+  symmetric groups}.
+\newblock {\em Transactions of the American Mathematical Society},
+  352(7):3211--3237, 2000.
+
+\bibitem[Lev25]{spectralSullivan}
+I.~Levy.
+\newblock {The spectral Sullivan conjecture}.
+\newblock 2025.
+
+\bibitem[Lin81]{AlgKP}
+W.~H. Lin.
+\newblock {Algebraic Kahn-Priddy theorem}.
+\newblock {\em Pacific Journal of Mathematics}, 96(2):435--455, 1981.
+
+\bibitem[LWX24]{Kervairelast}
+W.~Lin, G.~Wang, and Z.~Xu.
+\newblock {On the last Kervaire invariant problem}.
+\newblock 2024.
+
+\bibitem[Mah67]{Metastable}
+M.~E. Mahowald.
+\newblock {\em {The metastable homotopy of $S^n$}}.
+\newblock Number~72 in Memoirs of the American Mathematical Society. American
+  Mathematical Society, 1967.
+
+\bibitem[May70]{MayAlg}
+J.~P. May.
+\newblock {A general algebraic approach to Steenrod operations}.
+\newblock In {\em {The Steenrod algebra and its applications}}, volume 168 of
+  {\em Lecture Notes in Mathematics}, pages 153--231. Springer, 1970.
+
+\bibitem[Mor26]{Mor}
+I.~Mor.
+\newblock {Synthetic spaces}, 2026.
+\newblock In preparation.
+
+\bibitem[Mos68]{AHSSCP}
+R.~E. Mosher.
+\newblock {Some stable homotopy of complex projective space}.
+\newblock {\em Topology}, 7(2):179--193, 1968.
+
+\bibitem[MP83]{MitchellPriddy}
+S.~A. Mitchell and S.~B. Priddy.
+\newblock {Stable splittings derived from the Steinberg module}.
+\newblock {\em Topology}, 22(3):285--298, 1983.
+
+\bibitem[Nak55]{NakaokaSp2}
+M.~Nakaoka.
+\newblock {Homotopy of two-fold symmetric products of spheres}.
+\newblock {\em Journal of the Institute of Polytechnics, Osaka City University.
+  Series A, Mathematics}, 6(1):35--46, 1955.
+
+\bibitem[Nak58]{Nakaoka}
+M.~Nakaoka.
+\newblock {Cohomology mod $p$ of symmetric products of spheres}.
+\newblock {\em Journal of the Institute of Polytechnics, Osaka City University.
+  Series A, Mathematics}, 9(1):1--18, 1958.
+
+\bibitem[Nei10]{unstablemethods}
+J.~A. Neisendorfer.
+\newblock {\em {Algebraic methods in unstable homotopy theory}}, volume~12 of
+  {\em New Mathematical Monographs}.
+\newblock Cambridge University Press, 2010.
+
+\bibitem[Ner26a]{NervoLayers}
+Marco Nervo.
+\newblock {Adams SS for the Goodwillie layers of spheres and suspensions}.
+\newblock Software, 2026.
+\newblock Available at
+  \url{https://marconervo.github.io/ass-goodwillie-layers/}.
+
+\bibitem[Ner26b]{NervoCircle}
+Marco Nervo.
+\newblock {An Adams SS for the Goodwillie tower of the circle}.
+\newblock Software, 2026.
+\newblock Available at
+  \url{https://marconervo.github.io/ass-goodwillie-circle/}.
+
+\bibitem[NS18]{NikolausScholze}
+T.~Nikolaus and P.~Scholze.
+\newblock {On topological cyclic homology}.
+\newblock {\em Acta Mathematica}, 221(2):203--409, 2018.
+
+\bibitem[Rav86]{Complexcob}
+D.~C. Ravenel.
+\newblock {\em {Complex cobordism and stable homotopy groups of spheres}},
+  volume 121 of {\em Pure and Applied Mathematics}.
+\newblock Academic Press, 1986.
+
+\bibitem[Ric14]{Richter2014}
+W.~Richter.
+\newblock {A conjecture of Gray and the $p$-th power map on $\Omega^2
+  S^{2np+1}$}.
+\newblock {\em Proceedings of the American Mathematical Society},
+  142(6):2151--2160, 2014.
+
+\bibitem[Ser53a]{Serre}
+J.~P. Serre.
+\newblock {Cohomologie modulo 2 des complexes d'Eilenberg--MacLane}.
+\newblock {\em Commentarii Mathematici Helvetici}, 27:198--232, 1953.
+
+\bibitem[Ser53b]{Serreodd}
+J.~P. Serre.
+\newblock {Groupes d'homotopie et classes de groupes abéliens}.
+\newblock {\em Annals of Mathematics}, 58(2):258--294, 1953.
+
+\bibitem[Str75]{conjugate}
+P.~D. Straffin.
+\newblock {Identities for conjugation in the Steenrod algebra}.
+\newblock {\em Proceedings of the American Mathematical Society},
+  49(1):253--255, 1975.
+
+\bibitem[Tag22]{unitary}
+N.~Taggart.
+\newblock {Unitary calculus: model categories and convergence}.
+\newblock {\em Journal of Homotopy and Related Structures}, 17:419--462, 2022.
+
+\bibitem[Tho98]{L2W}
+R.~D. Thompson.
+\newblock {The $L_2$-localization of $W(n)$}.
+\newblock {\em Transactions of the American Mathematical Society},
+  350(5):1931--1943, 1998.
+
+\bibitem[Tod56]{Todadouble}
+H.~Toda.
+\newblock {On the double suspension $E^2$}.
+\newblock {\em Journal of the Institute of Polytechnics, Osaka City University.
+  Series A, Mathematics}, 7(1--2):103--145, 1956.
+
+\bibitem[Tod62]{todaoriginal}
+H.~Toda.
+\newblock {\em {Composition methods in homotopy groups of spheres}}, volume~49
+  of {\em Annals of Mathematics Studies}.
+\newblock Princeton University Press, 1962.
+
+\bibitem[Tod03]{Toda3}
+H.~Toda.
+\newblock {Unstable 3-primary homotopy groups of spheres}.
+\newblock {\em Econoinformatics}, 29:1--77, 2003.
+
+\bibitem[Wel80]{KPWelcher}
+P.~J. Welcher.
+\newblock {Symmetric products and the stable Hurewicz homomorphism}.
+\newblock {\em Illinois Journal of Mathematics}, 24(4):527--544, 1980.
+
+\bibitem[Wel81]{Welcher}
+P.~J. Welcher.
+\newblock {Symmetric fibre spectra and $K(n)$-homology acyclicity}.
+\newblock {\em Indiana University Mathematics Journal}, 30(6):801--812, 1981.
+
+\bibitem[Woo98]{Woodproblems}
+R.~M.~W. Wood.
+\newblock {Problems in the Steenrod algebra}.
+\newblock {\em Bulletin of the London Mathematical Society}, 30(5):449--517,
+  1998.
+
+\end{thebibliography}

@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99e
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: alpha.bst
+Reallocating 'name_of_file' (item size: 1) to 4 items.
+Database file #1: bib.bib
+Warning--can't use both volume and number fields in Behrens2010
+Warning--empty journal in BP1
+Warning--empty journal in BP2
+Warning--can't use both volume and number fields in AlgGSS
+Warning--empty journal in spectralSullivan
+Warning--empty journal in Kervairelast
+You've used 63 entries,
+            2543 wiz_defined-function locations,
+            977 strings with 11961 characters,
+and the built_in function-call counts, 22976 in all, are:
+= -- 2389
+> -- 745
+< -- 57
++ -- 220
+- -- 216
+* -- 1662
+:= -- 3685
+add.period$ -- 197
+call.type$ -- 63
+change.case$ -- 332
+chr.to.int$ -- 59
+cite$ -- 69
+duplicate$ -- 966
+empty$ -- 1838
+format.name$ -- 323
+if$ -- 4679
+int.to.chr$ -- 5
+int.to.str$ -- 0
+missing$ -- 65
+newline$ -- 321
+num.names$ -- 191
+pop$ -- 280
+preamble$ -- 1
+purify$ -- 401
+quote$ -- 0
+skip$ -- 745
+stack$ -- 0
+substring$ -- 1636
+swap$ -- 108
+text.length$ -- 57
+text.prefix$ -- 44
+top$ -- 0
+type$ -- 480
+warning$ -- 6
+while$ -- 247
+width$ -- 66
+write$ -- 823
+(There were 6 warnings)
