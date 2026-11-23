@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1794907696.55126 "main.aux" "main.bbl" "main" 1794907704.50184 0
+["bibtex main"] 1795452352.01572 "main.aux" "main.bbl" "main" 1795469971.719 0
   "./bib.bib" 1794907531 29110 d8a77ff03a1db386b174b93b547c6a1f ""
   "C:/Users/Gebruiker/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/alpha.bst" 1291864736 23907 a5f93555796fb564b924339521f10a7c ""
-  "main.aux" 1794907703 21481 d8d80e68fa3d19e7280fd261c01048d3 "pdflatex"
+  "main.aux" 1795469969 21481 70f0a0c7ded0dca9e7f4c93a2537076c "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1794907696.79385 "c:/Users/Gebruiker/Desktop/Math/Model/main.tex" "main.pdf" "main" 1794907704.50244 0
+["pdflatex"] 1795469960.43415 "c:/Users/Gebruiker/Desktop/Math/Model/main.tex" "main.pdf" "main" 1795469971.72021 0
   "C:/Users/Gebruiker/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1786455867 175776 16afcd4c55d414f4650b7fff9815b5b4 ""
   "C:/Users/Gebruiker/AppData/Local/MiKTeX/fonts/pk/ljfour/public/bbold/dpi600/bbold6.pk" 1780868175 8060 7a4d3dc08e57d58509b7b7594f3eee47 ""
   "C:/Users/Gebruiker/AppData/Local/MiKTeX/fonts/pk/ljfour/public/bbold/dpi600/bbold8.pk" 1780868197 10576 e8514fab9f45fa25bdaddff394be550c ""
@@ -366,13 +366,13 @@
   "C:/Users/Gebruiker/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/Gebruiker/AppData/Local/Programs/MiKTeX/tex/latex/xfrac/xfrac.sty" 1718270407 14945 a207ee7fd6b8cf6d82afb367c583ddd3 ""
   "C:/Users/Gebruiker/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "c:/Users/Gebruiker/Desktop/Math/Model/main.tex" 1794907687 256885 7c572fed1aa07ad6689fbd1a9d763a8e ""
-  "main.aux" 1794907703 21481 d8d80e68fa3d19e7280fd261c01048d3 "pdflatex"
-  "main.bbl" 1794907696 12500 021f3c01eb608742d3592a30d4a50a12 "bibtex main"
-  "main.brf" 1794907703 5999 5eccfe731341b95204b53cd7c2d1acfe "pdflatex"
-  "main.out" 1794907703 1097 ca82ae91c7eb2a99ec62ca270f8cdc37 "pdflatex"
-  "main.tex" 1794907687 256885 7c572fed1aa07ad6689fbd1a9d763a8e ""
-  "main.toc" 1794907703 2403 b685c663a583d8292922fbb5f2be67b2 "pdflatex"
+  "c:/Users/Gebruiker/Desktop/Math/Model/main.tex" 1795469959 257226 d212c469595f7fb6eade489b57514a7b ""
+  "main.aux" 1795469969 21481 70f0a0c7ded0dca9e7f4c93a2537076c "pdflatex"
+  "main.bbl" 1795452352 12500 021f3c01eb608742d3592a30d4a50a12 "bibtex main"
+  "main.brf" 1795469969 5999 5eccfe731341b95204b53cd7c2d1acfe "pdflatex"
+  "main.out" 1795469969 1097 ca82ae91c7eb2a99ec62ca270f8cdc37 "pdflatex"
+  "main.tex" 1795469959 257226 d212c469595f7fb6eade489b57514a7b ""
+  "main.toc" 1795469969 2403 b685c663a583d8292922fbb5f2be67b2 "pdflatex"
   (generated)
   "main.aux"
   "main.brf"
